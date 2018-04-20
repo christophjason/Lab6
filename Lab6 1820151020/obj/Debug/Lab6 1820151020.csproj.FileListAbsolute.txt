@@ -1,0 +1,18 @@
+E:\User\Desktop\Uni Materials\Third Year\Experiment of Operating System\Lab Projects\Lab6\Lab6 1820151020\Lab6 1820151020\obj\Debug\Lab6_1820151020.Properties.Resources.resources
+E:\User\Desktop\Uni Materials\Third Year\Experiment of Operating System\Lab Projects\Lab6\Lab6 1820151020\Lab6 1820151020\obj\Debug\Lab6 1820151020.csproj.GenerateResource.Cache
+E:\User\Desktop\Uni Materials\Third Year\Experiment of Operating System\Lab Projects\Lab6\Lab6 1820151020\Lab6 1820151020\obj\Debug\Lab6 1820151020.csproj.CoreCompileInputs.cache
+E:\User\Desktop\Uni Materials\Third Year\Experiment of Operating System\Lab Projects\Lab6\Lab6 1820151020\Lab6 1820151020\bin\Debug\Lab6 1820151020.exe.config
+E:\User\Desktop\Uni Materials\Third Year\Experiment of Operating System\Lab Projects\Lab6\Lab6 1820151020\Lab6 1820151020\bin\Debug\Lab6 1820151020.exe
+E:\User\Desktop\Uni Materials\Third Year\Experiment of Operating System\Lab Projects\Lab6\Lab6 1820151020\Lab6 1820151020\bin\Debug\Lab6 1820151020.pdb
+E:\User\Desktop\Uni Materials\Third Year\Experiment of Operating System\Lab Projects\Lab6\Lab6 1820151020\Lab6 1820151020\obj\Debug\Lab6 1820151020.exe
+E:\User\Desktop\Uni Materials\Third Year\Experiment of Operating System\Lab Projects\Lab6\Lab6 1820151020\Lab6 1820151020\obj\Debug\Lab6 1820151020.pdb
+E:\User\Desktop\Uni Materials\Third Year\Experiment of Operating System\Lab Projects\Lab6\Lab6 1820151020\Lab6 1820151020\obj\Debug\Lab6_1820151020.formMain.resources
+E:\User\Desktop\Uni Materials\Third Year\Experiment of Operating System\Lab Projects\Lab6\Lab6 1820151020\Lab6 1820151020\obj\Debug\Lab6_1820151020.memoryMonitor.resources
+E:\User\Desktop\Uni Materials\Third Year\Experiment of Operating System\Lab Projects\Lab6\Lab6 1820151020\Lab6 1820151020\obj\Debug\Lab6_1820151020.processManagement.resources
+E:\User\Desktop\Uni Materials\Third Year\Experiment of Operating System\Lab Projects\Lab6\Lab6 1820151020\Lab6 1820151020\obj\Debug\Lab6_1820151020.formRunNewTask.resources
+E:\User\Desktop\Uni Materials\Third Year\Experiment of Operating System\Lab Projects\Lab6\Lab6 1820151020\Lab6 1820151020\obj\Debug\Lab6_1820151020.taskManager.resources
+E:\User\Desktop\Uni Materials\Third Year\Experiment of Operating System\Lab Projects\Lab6\Lab6 1820151020\Lab6 1820151020\obj\Debug\Lab6_1820151020.formDesign.resources
+E:\User\Desktop\Uni Materials\Third Year\Experiment of Operating System\Lab Projects\Lab6\Lab6 1820151020\Lab6 1820151020\obj\Debug\Lab6_1820151020.taskManagerDesign.resources
+E:\User\Desktop\Uni Materials\Third Year\Experiment of Operating System\Lab Projects\Lab6\Lab6 1820151020\Lab6 1820151020\obj\Debug\Lab6_1820151020.imageViewer.resources
+E:\User\Desktop\Uni Materials\Third Year\Experiment of Operating System\Lab Projects\Lab6\Lab6 1820151020\Lab6 1820151020\obj\Debug\Lab6_1820151020.Explorer.resources
+E:\User\Desktop\Uni Materials\Third Year\Experiment of Operating System\Lab Projects\Lab6\Lab6 1820151020\Lab6 1820151020\obj\Debug\Lab6_1820151020.confirmDelete.resources
